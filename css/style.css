@@ -33,7 +33,7 @@ a {
 }
 
 header {
-  padding: 8rem 2rem 9rem;
+  padding: 8rem 1rem 9rem;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -276,7 +276,7 @@ header {
   }
 
   .main__left-img {
-    clip-path: inset(0 0 0 40px);
+    transform: translateX(-50px)
   }
 
   .main__right {
