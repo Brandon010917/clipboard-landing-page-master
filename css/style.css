@@ -19,7 +19,7 @@ html {
 
 body {
   width: 375px;
-  background-image: url("/images/bg-header-mobile.png");
+  background-image: url("../images/bg-header-mobile.png");
   background-repeat: no-repeat;
   overflow-x: hidden;
 }
